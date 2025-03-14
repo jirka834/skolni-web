@@ -110,16 +110,16 @@ nav ul li a:hover {
     margin: 0;
 }
 .features {
-    display: flex; /* Aktivace flexboxu /
-    flex-wrap: wrap; / Zajištění zalomení prvků na další řádek při nedostatku místa /
-    justify-content: center; / Zarovná prvky do středu /
+    display: flex;  /* Aktivace flexboxu */
+    flex-wrap: wrap; /* Zajištění zalomení prvků na další řádek při nedostatku místa */
+    justify-content: center; /* Zarovná prvky do středu */
 }
 
 .feature {
-    width: 30%; / Každý prvek zabere 30 % šířky /
-    border: 1px solid #ccc; / Ohraničení pro lepší viditelnost /
-    padding: 15px; / Vnitřní mezery /
-    box-sizing: border-box; / Zabrání zvětšování prvku kvůli paddingu */
+    width: 30%; /* Každý prvek zabere 30 % šířky */
+    border: 1px solid #ccc; /* Ohraničení pro lepší viditelnost */
+    padding: 15px; /* Vnitřní mezery */
+    box-sizing: border-box; /* Zabrání zvětšování prvku kvůli paddingu */
 }
 .heading {
     text-align: center;
